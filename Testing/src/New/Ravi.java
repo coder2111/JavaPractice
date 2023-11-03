@@ -10,7 +10,7 @@ import java.util.stream.Stream;
 
 public class Ravi {
 public static void main(String args[]) {
-	String s="my name    is ravi my name   is ravi. ";
+	String s="my name   is ravi my name   is ravi. what should i do ";
 	Map<String, Integer> map = new HashMap<>();
 	String str[]=s.split("\\s+");
 	int count = 1; 
